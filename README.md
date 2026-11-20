@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 4 problems · 0 labs · 0 math
+**5** solved · 5 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build an MLP with nn.Sequential](https://www.deep-ml.com/problems/887) | easy | 2026-11-20 | [solution](problems/0887-build-an-mlp-with-nn-sequential) |
 | [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-11-20 | [solution](problems/1234-one-sgd-update-step) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-11-20 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-11-20 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-11-20 | [solution](problems/1235-sgd-with-momentum-step) |
 
 ---
