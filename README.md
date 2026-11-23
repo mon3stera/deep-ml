@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**25** solved · 24 problems · 1 labs · 0 math
+**26** solved · 25 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-11-20 | [solution](problems/1234-one-sgd-update-step) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-11-23 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-11-20 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Tensor Puzzle: Ones Vector from First Principles](https://www.deep-ml.com/problems/1268) | easy | 2026-11-23 | [solution](problems/1268-tensor-puzzle-ones-vector-from-first-principles) |
 | [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-11-20 | [solution](problems/1229-binary-cross-entropy-from-logits) |
 | [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-11-21 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-11-20 | [solution](problems/0049-implement-adam-optimization-algorithm) |
