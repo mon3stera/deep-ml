@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**30** solved · 29 problems · 1 labs · 0 math
+**31** solved · 30 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -40,6 +40,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [nn.ModuleList vs a Plain Python List](https://www.deep-ml.com/problems/1341) | medium | 2026-11-23 | [solution](problems/1341-nn-modulelist-vs-a-plain-python-list) |
 | [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-11-20 | [solution](problems/0914-numerically-stable-cross-entropy) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-11-20 | [solution](problems/1235-sgd-with-momentum-step) |
+| [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-11-23 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-11-20 | [solution](problems/0094-implement-multi-head-attention) |
 
 ## Labs
