@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T11:34:53.702Z",
+  "generated_at": "2026-11-23T11:36:36.718Z",
   "items": {
     "problem:887": {
       "kind": "problem",
@@ -336,6 +336,19 @@
       "path": "problems/1268-tensor-puzzle-ones-vector-from-first-principles",
       "first_solved_at": "2026-11-23T11:34:52.964Z",
       "last_pushed_at": "2026-11-23T11:34:52.964Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:1220": {
+      "kind": "problem",
+      "id": "1220",
+      "title": "Create and Inspect a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1220",
+      "path": "problems/1220-create-and-inspect-a-tensor",
+      "first_solved_at": "2026-11-23T11:36:35.990Z",
+      "last_pushed_at": "2026-11-23T11:36:35.990Z",
       "language": "python",
       "lines": 7
     }
