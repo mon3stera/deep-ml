@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**32** solved · 31 problems · 1 labs · 0 math
+**33** solved · 32 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -40,6 +40,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-11-21 | [solution](problems/0107-implement-masked-self-attention) |
 | [nn.ModuleList vs a Plain Python List](https://www.deep-ml.com/problems/1341) | medium | 2026-11-23 | [solution](problems/1341-nn-modulelist-vs-a-plain-python-list) |
 | [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-11-20 | [solution](problems/0914-numerically-stable-cross-entropy) |
+| [One Training Step](https://www.deep-ml.com/problems/1219) | medium | 2026-11-23 | [solution](problems/1219-one-training-step) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-11-20 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-11-23 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-11-20 | [solution](problems/0094-implement-multi-head-attention) |
