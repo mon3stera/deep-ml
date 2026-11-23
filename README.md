@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**34** solved · 33 problems · 1 labs · 0 math
+**35** solved · 34 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-11-20 | [solution](problems/1229-binary-cross-entropy-from-logits) |
 | [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-11-21 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
 | [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-11-23 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
+| [Implement a Custom `autograd.Function`](https://www.deep-ml.com/problems/903) | medium | 2026-11-23 | [solution](problems/0903-implement-a-custom-autograd-function) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-11-20 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-11-20 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-11-21 | [solution](problems/0107-implement-masked-self-attention) |
