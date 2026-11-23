@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 24 problems · 0 labs · 0 math
+**25** solved · 24 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Numerically Stable Cross-Entropy](https://www.deep-ml.com/problems/914) | medium | 2026-11-20 | [solution](problems/0914-numerically-stable-cross-entropy) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-11-20 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-11-20 | [solution](problems/0094-implement-multi-head-attention) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-11-23 | [solution](labs/0009-design-your-own-activation-function) |
 
 ---
 
