@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T04:53:48.310Z",
+  "generated_at": "2026-11-23T11:02:22.425Z",
   "items": {
     "problem:887": {
       "kind": "problem",
@@ -219,6 +219,19 @@
       "path": "problems/0156-implement-swiglu-activation-function",
       "first_solved_at": "2026-11-23T04:53:47.286Z",
       "last_pushed_at": "2026-11-23T04:53:47.286Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:885": {
+      "kind": "problem",
+      "id": "885",
+      "title": "Build a Linear Regression Model with nn.Module",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/885",
+      "path": "problems/0885-build-a-linear-regression-model-with-nn-module",
+      "first_solved_at": "2026-11-23T11:02:21.722Z",
+      "last_pushed_at": "2026-11-23T11:02:21.722Z",
       "language": "python",
       "lines": 13
     }
