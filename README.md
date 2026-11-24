@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**40** solved · 39 problems · 1 labs · 0 math
+**41** solved · 40 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -43,6 +43,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-11-20 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement AdamW Optimizer Step](https://www.deep-ml.com/problems/169) | medium | 2026-11-20 | [solution](problems/0169-implement-adamw-optimizer-step) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-11-21 | [solution](problems/0107-implement-masked-self-attention) |
+| [Implement Position-wise Feed-Forward Block with Residual and Dropout](https://www.deep-ml.com/problems/178) | medium | 2026-11-24 | [solution](problems/0178-implement-position-wise-feed-forward-block-with-residual-and-dropout) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-11-24 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-23 | [solution](problems/0009-matrix-times-matrix) |
 | [nn.ModuleList vs a Plain Python List](https://www.deep-ml.com/problems/1341) | medium | 2026-11-23 | [solution](problems/1341-nn-modulelist-vs-a-plain-python-list) |
