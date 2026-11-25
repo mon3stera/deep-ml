@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**46** solved · 45 problems · 1 labs · 0 math
+**47** solved · 46 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-11-20 | [solution](problems/1234-one-sgd-update-step) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-11-23 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/1221) | easy | 2026-11-23 | [solution](problems/1221-reshape-and-transpose-a-tensor) |
+| [Scale Attention Scores by sqrt(d_k)](https://www.deep-ml.com/problems/963) | easy | 2026-11-25 | [solution](problems/0963-scale-attention-scores-by-sqrt-d-k) |
 | [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-11-25 | [solution](problems/1101-select-all-rows) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-11-20 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Tensor Puzzle: Ones Vector from First Principles](https://www.deep-ml.com/problems/1268) | easy | 2026-11-23 | [solution](problems/1268-tensor-puzzle-ones-vector-from-first-principles) |
