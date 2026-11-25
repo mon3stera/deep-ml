@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**42** solved · 41 problems · 1 labs · 0 math
+**43** solved · 42 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-11-20 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
 | [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-11-21 | [solution](problems/0901-implement-dropout-from-scratch) |
 | [Implement LayerNorm from Scratch](https://www.deep-ml.com/problems/908) | easy | 2026-11-21 | [solution](problems/0908-implement-layernorm-from-scratch) |
+| [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-11-25 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement RMSNorm (Root Mean Square Layer Normalization)](https://www.deep-ml.com/problems/372) | easy | 2026-11-21 | [solution](problems/0372-implement-rmsnorm-root-mean-square-layer-normalization) |
 | [Implement SwiGLU activation function](https://www.deep-ml.com/problems/156) | easy | 2026-11-23 | [solution](problems/0156-implement-swiglu-activation-function) |
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-11-23 | [solution](problems/1228-mean-squared-error-from-scratch) |
