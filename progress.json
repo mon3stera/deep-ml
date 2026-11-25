@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T14:52:53.971Z",
+  "generated_at": "2026-11-25T15:15:08.480Z",
   "items": {
     "problem:887": {
       "kind": "problem",
@@ -585,6 +585,19 @@
       "last_pushed_at": "2026-11-25T14:52:53.304Z",
       "language": "sql",
       "lines": 4
+    },
+    "problem:1269": {
+      "kind": "problem",
+      "id": "1269",
+      "title": "Tensor Puzzle: Sum a Vector with a Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1269",
+      "path": "problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product",
+      "first_solved_at": "2026-11-25T15:15:07.694Z",
+      "last_pushed_at": "2026-11-25T15:15:07.694Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
