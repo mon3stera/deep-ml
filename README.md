@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**49** solved · 48 problems · 1 labs · 0 math
+**50** solved · 48 problems · 1 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -66,6 +66,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-11-23 | [solution](labs/0009-design-your-own-activation-function) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-11-27 | [solution](math/0007-vector-operations) |
 
 ---
 
