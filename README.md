@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**59** solved · 53 problems · 1 labs · 5 math
+**60** solved · 54 problems · 1 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -40,6 +40,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-11-23 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [Momentum Optimizer](https://www.deep-ml.com/problems/146) | easy | 2026-11-25 | [solution](problems/0146-momentum-optimizer) |
 | [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-11-20 | [solution](problems/1234-one-sgd-update-step) |
+| [Replace Token Pair in BPE Sequences](https://www.deep-ml.com/problems/949) | easy | 2026-11-27 | [solution](problems/0949-replace-token-pair-in-bpe-sequences) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-11-23 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/1221) | easy | 2026-11-23 | [solution](problems/1221-reshape-and-transpose-a-tensor) |
 | [Scale Attention Scores by sqrt(d_k)](https://www.deep-ml.com/problems/963) | easy | 2026-11-25 | [solution](problems/0963-scale-attention-scores-by-sqrt-d-k) |
