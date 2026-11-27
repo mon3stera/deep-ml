@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**48** solved · 47 problems · 1 labs · 0 math
+**49** solved · 48 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Sum a Vector with a Dot Product](https://www.deep-ml.com/problems/1269) | easy | 2026-11-25 | [solution](problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product) |
 | [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-11-20 | [solution](problems/1229-binary-cross-entropy-from-logits) |
 | [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-11-21 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
+| [Chat Template Encoding for Instruct Models](https://www.deep-ml.com/problems/1034) | medium | 2026-11-27 | [solution](problems/1034-chat-template-encoding-for-instruct-models) |
 | [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-11-23 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
 | [Implement a Custom `autograd.Function`](https://www.deep-ml.com/problems/903) | medium | 2026-11-23 | [solution](problems/0903-implement-a-custom-autograd-function) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-11-20 | [solution](problems/0049-implement-adam-optimization-algorithm) |
