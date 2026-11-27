@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**55** solved · 49 problems · 1 labs · 5 math
+**56** solved · 50 problems · 1 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -26,6 +26,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-11-23 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-11-23 | [solution](problems/0083-dot-product-calculator) |
 | [Early Stopping with Patience](https://www.deep-ml.com/problems/913) | easy | 2026-11-24 | [solution](problems/0913-early-stopping-with-patience) |
+| [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-11-27 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Gradient of a Square with Autograd](https://www.deep-ml.com/problems/1222) | easy | 2026-11-23 | [solution](problems/1222-gradient-of-a-square-with-autograd) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-11-20 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
 | [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-11-21 | [solution](problems/0901-implement-dropout-from-scratch) |
