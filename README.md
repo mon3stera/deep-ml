@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**53** solved · 48 problems · 1 labs · 4 math
+**54** solved · 48 problems · 1 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -72,6 +72,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-11-27 | [solution](math/0001-derivatives-and-gradients) |
+| [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-11-27 | [solution](math/0005-gradient-descent-updates) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-11-27 | [solution](math/0007-vector-operations) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-11-27 | [solution](math/0010-matrix-multiplication) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-11-27 | [solution](math/0002-multivariate-calculus) |
