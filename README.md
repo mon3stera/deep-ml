@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**62** solved · 56 problems · 1 labs · 5 math
+**63** solved · 57 problems · 1 labs · 5 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-11-23 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-11-27 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-11-23 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
+| [Construct Next-Token Prediction Targets](https://www.deep-ml.com/problems/954) | easy | 2026-11-27 | [solution](problems/0954-construct-next-token-prediction-targets) |
 | [Count Parameters of a Sequential Model](https://www.deep-ml.com/problems/1218) | easy | 2026-11-23 | [solution](problems/1218-count-parameters-of-a-sequential-model) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-11-20 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Create and Inspect a Tensor](https://www.deep-ml.com/problems/1220) | easy | 2026-11-23 | [solution](problems/1220-create-and-inspect-a-tensor) |
